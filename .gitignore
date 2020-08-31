@@ -338,3 +338,15 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Assets/TextMesh Pro
+/Library/metadata
+/Library/PackageCache
+/Library/ScriptAssemblies
+/Library
+/Temp
+/ProjectSettings
+/EducationalGame
+/COSC880Project.sln
+/Assembly-CSharp.csproj
+/.editorconfig
+/Assets/VertexColorFarmAnimals
